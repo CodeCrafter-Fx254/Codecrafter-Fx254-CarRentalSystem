@@ -1,4 +1,4 @@
-public class Customer {
+ public class Customer {
     private String customerId;
     private String name;
     private String contactInfo; // e.g., phone number or email
