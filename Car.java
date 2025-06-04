@@ -35,6 +35,7 @@ public class Car {
     }
 
     // Setters (consider if all should be public, or if changes should be via methods)
+    
     public void setAvailable(boolean available) {
         isAvailable = available;
     }
